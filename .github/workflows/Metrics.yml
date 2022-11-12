@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: 14mC4/14mC4@latest
+      - uses: 14mC4/14mC4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
