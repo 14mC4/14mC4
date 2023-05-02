@@ -1,5 +1,4 @@
 ![Metrics](/gitninja.png)
-### Blog Status : [![ci](https://github.com/14mC4/14mC4.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/14mC4/14mC4.github.io/actions/workflows/ci.yml)
 
 <h1 align="center">Hi 👋, I'm Charles Goodling aka C4</h1>
 <h3 align="center">A Cloud/DevOps Engineer and Ethical Hacker based in Georgia(United States)</h3>
@@ -11,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python and Windows Exploitation**
 
-- 👯 I’m looking to collaborate on **Anything Cloud, DevOps, or Ethical Hacking ( Red Tean or Penetration Testing ) related**
+- 👯 I’m looking to collaborate on **Anything Cloud, DevOps, or Ethical Hacking ( Red Team or Penetration Testing ) related**
 
 - 👨‍💻 Most of my material is either on [My Blog](https://14mC4.github.io) or LinkedIn
 
