@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=14mC4&label=Profile%20views&color=0e75b6&style=flat" alt="14mC4" /> </p>
 
-- 🔭 I’m currently working on **OSCP and PNPT**
-
-- 🌱 I’m currently learning **Python and Windows Exploitation**
-
 - 👯 I’m looking to collaborate on **Anything Cloud, DevOps, or Ethical Hacking ( Red Team or Penetration Testing ) related**
 
 - 👨‍💻 Most of my material is either on [My Blog](https://14mC4.github.io) or LinkedIn
